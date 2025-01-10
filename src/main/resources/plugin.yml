@@ -1,0 +1,4 @@
+name: TombStones
+version: '1.0.0'
+main: dev.dreamers.tombStones.TombStones
+api-version: '1.18'
